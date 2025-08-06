@@ -8,9 +8,3 @@ joblib
 matplotlib
 jenkspy
 mapclassify
-base64
-io
-os
-tempfile
-traceback
-json
