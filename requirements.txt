@@ -1,10 +1,10 @@
-flask
-flask_cors
+Flask
+flask-cors
 numpy
 pandas
 rasterio
+matplotlib
 scikit-learn
 joblib
-matplotlib
 jenkspy
 mapclassify
