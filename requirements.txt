@@ -5,9 +5,12 @@ pandas
 rasterio
 scikit-learn
 joblib
-mapclassify
 matplotlib
 jenkspy
-gunicorn
-
-
+mapclassify
+base64
+io
+os
+tempfile
+traceback
+json
